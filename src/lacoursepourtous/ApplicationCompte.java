@@ -205,8 +205,8 @@ public class ApplicationCompte {
         ApplicationCompte table = new ApplicationCompte(bdd);  
         
         String numeroUtilisateur = "2";
-        String nomUtilisateur = "Dubs";
-        String prenomUtilisateur = "Fannie";
+        String nomUtilisateur = "Penisson";
+        String prenomUtilisateur = "Cédric";
         String mailUtilisateur = "thebeautifull@thebeautifull.fr";
         String motDePasseUtilisateur = "mapaupiete"; 
         
